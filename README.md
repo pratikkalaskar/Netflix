@@ -1,2 +1,2 @@
 # Netflix
-I create netflix homepage by using html and css
+I have create netflix homepage by using html and css
